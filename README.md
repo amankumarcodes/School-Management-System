@@ -5,7 +5,8 @@ A simple command-line based School Management System implemented in C, developed
 ## Overview
 
 This system provides basic functionality for managing student records in a school environment, implementing CRUD (Create, Read, Update, Delete) operations with a focus on data integrity and user-friendly interaction.
-![Insert Student Details](images/insetdetails.png)
+
+![Insert Student Details](images/insert.png)
 
 ![Update Existing Details](images/update.png)
 
